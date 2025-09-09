@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"inet.af/netaddr"
+	"github.com/gauzy-gossamer/netaddr"
 )
 
 // The tests for stacktrace errors is in its own file,

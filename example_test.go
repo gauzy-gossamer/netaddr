@@ -9,7 +9,7 @@ import (
 	"os"
 	"text/tabwriter"
 
-	"inet.af/netaddr"
+	"github.com/gauzy-gossamer/netaddr"
 )
 
 func ExampleIP() {
