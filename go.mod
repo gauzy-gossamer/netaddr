@@ -1,4 +1,4 @@
-module https://github.com/gauzy-gossamer/netaddr
+module github.com/gauzy-gossamer/netaddr
 
 go 1.12
 
